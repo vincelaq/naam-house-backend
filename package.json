@@ -4,7 +4,8 @@
   "description": "Server for NAAM-House React Native App",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "author": "Vincent Laquindanum",
   "license": "ISC",
